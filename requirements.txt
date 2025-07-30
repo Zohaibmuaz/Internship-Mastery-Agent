@@ -9,3 +9,4 @@ langchain-openai
 langgraph
 docker
 requests
+python-multipart
