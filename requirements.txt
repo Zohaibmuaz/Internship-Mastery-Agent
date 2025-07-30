@@ -9,4 +9,3 @@ langchain-openai
 langgraph
 docker
 requests
-sqlite3
